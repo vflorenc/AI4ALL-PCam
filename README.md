@@ -14,3 +14,7 @@ It may take a second, because the repository contains our dataset.
 Once the download finishes, go to Google Drive and open the folder called "AI4ALL-Pcam".
 
 The notebooks should be in this folder - start with 00_Introduction.ipynb. Right click > Open with > Colaboratory
+
+
+### Download pickled data here
+https://drive.google.com/file/d/1Bu1NC9NQqPncQdkBhu57z1nM7UEU5gyF/view?usp=sharing
