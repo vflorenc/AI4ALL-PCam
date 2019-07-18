@@ -19,7 +19,16 @@ The notebooks should be in this folder - start with 00_Introduction.ipynb. Right
 ### Download pickled data here
 https://drive.google.com/file/d/1Bu1NC9NQqPncQdkBhu57z1nM7UEU5gyF/view?usp=sharing
 
+### Download the larger dataset here
+train: https://drive.google.com/file/d/1aBj8LSju0-5yj3QmIkmEJFZjNfPh_MP9/view?usp=sharing
+
+test: https://drive.google.com/file/d/1EIu25CMniy-rhbJNvOSyGZvz90Xo-2gy/view?usp=sharing
+
 ### Download the full dataset here
 train: https://drive.google.com/file/d/1Bn9i7YhnvyMZsHLNorxKzx68YaQufgMt/view?usp=sharing
+
 validation: https://drive.google.com/file/d/16MS1PfjFXByozkYPZOiFE5gZHkdBXwPk/view?usp=sharing
+
 test: https://drive.google.com/file/d/1NFByf78rrp89JUhVixdZKGoIJaCp-vGd/view?usp=sharing
+
+
